@@ -1,0 +1,182 @@
+import 'package:flutter/material.dart';
+Center design()
+{
+  return const Center(
+    child: Text.rich(TextSpan(children: [
+      TextSpan(
+          text: '           G',
+          style: TextStyle(
+              color: Colors.green,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'R',
+          style: TextStyle(
+              color: Colors.red,
+              letterSpacing: 2,
+              fontSize: 40,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'APHICS\n',
+          style: TextStyle(
+              color: Colors.green,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: '   FLUTT',
+          style: TextStyle(
+              color: Colors.blue,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'E',
+          style: TextStyle(
+              color: Colors.red,
+              letterSpacing: 2,
+              fontSize: 40,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'R\n',
+          style: TextStyle(
+              color: Colors.blue,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: '         AN',
+          style: TextStyle(
+              color: Colors.green,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'D',
+          style: TextStyle(
+              color: Colors.red,
+              letterSpacing: 2,
+              fontSize: 40,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'ROID\n',
+          style: TextStyle(
+              color: Colors.green,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: ' DESIGN ',
+          style: TextStyle(
+              color: Colors.amber,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: '&',
+          style: TextStyle(
+              color: Colors.red,
+              letterSpacing: 2,
+              fontSize: 40,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: ' DEVLOP\n',
+          style: TextStyle(
+              color: Colors.amber,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: '           W',
+          style: TextStyle(
+              color: Colors.red,
+              letterSpacing: 2,
+              fontSize: 40,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'EB\n',
+          style: TextStyle(
+              color: Colors.blue,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: '        FAS',
+          style: TextStyle(
+              color: Colors.amber,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'H',
+          style: TextStyle(
+              color: Colors.red,
+              fontSize: 40,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'ION\n',
+          style: TextStyle(
+              color: Colors.amber,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: '  ANIMAT',
+          style: TextStyle(
+              color: Colors.teal,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'I',
+          style: TextStyle(
+              color: Colors.red,
+              letterSpacing: 2,
+              fontSize: 40,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'ON\n',
+          style: TextStyle(
+              color: Colors.teal,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: '             I',
+          style: TextStyle(
+              color: Colors.blue,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'T',
+          style: TextStyle(
+              color: Colors.red,
+              letterSpacing: 2,
+              fontSize: 40,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'A-CS+\n',
+          style: TextStyle(
+              color: Colors.blue,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: '       GAM',
+          style: TextStyle(
+              color: Colors.amber,
+              letterSpacing: 2,
+              fontSize: 30,
+              fontWeight: FontWeight.bold)),
+      TextSpan(
+          text: 'E',
+          style: TextStyle(
+              color: Colors.red,
+              letterSpacing: 2,
+              fontSize: 40,
+              fontWeight: FontWeight.bold)),
+    ])),
+  );
+}
